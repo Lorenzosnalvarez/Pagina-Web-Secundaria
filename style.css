@@ -1,3 +1,26 @@
 body{
+    margin: 0%;
+    width:100vw;
     background-color: aqua;
 }
+#header{
+    display:flex;
+    width: 100vw;
+    background-color: #f60;
+    border: solid red 1px;
+}
+    #logo{
+        padding: 2vw 0vw 0vw 2vw;
+    }
+    #menu{
+        
+        
+
+    }
+        .itemsmenu{
+            list-style-type: none;
+            display: flex;
+        }
+        .itemsmenu a{
+            
+        }
