@@ -9,15 +9,6 @@ body{
     background-color: #f60;
     border: solid red 1px;
 }
-    #logo{
-        
-    }
-    
-    #menu{
-        
-        
-
-    }
         .itemsmenu{
             list-style-type: none;
             display: flex;
