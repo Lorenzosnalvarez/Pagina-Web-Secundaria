@@ -1,4 +1,4 @@
-body{
+.body{
     margin: 0%;
     width:100vw;
     background-color: aqua;
@@ -14,5 +14,5 @@ body{
             display: flex;
         }
         .itemsmenu a{
-            
+            border: solid red 1px;
         }
