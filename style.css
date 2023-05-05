@@ -1,18 +1,9 @@
-.body{
-    margin: 0%;
-    width:100vw;
-    background-color: aqua;
+#body{
+    background-color: lightgray;
+    margin:0vw 0vh;
 }
 #header{
-    display:flex;
-    width: 100vw;
-    background-color: #f60;
     border: solid red 1px;
+    width: 100vw;
+    height: ;
 }
-        .itemsmenu{
-            list-style-type: none;
-            display: flex;
-        }
-        .itemsmenu a{
-            border: solid red 1px;
-        }
